@@ -124,25 +124,19 @@ To prove that brain simulation dynamics are driven by **evolved biological topol
 When exported, the `simulation_data_bundle.zip` contains 4 standardized subdirectories:
 
 ```
-simulation_data_bundle/
-├── group_connectomes/       # Full N x N element-wise median consensus
-│   ├── group_mean_sift_{res}.csv
-│   ├── group_mean_length_{res}.csv
-│   └── group_prevalence_{res}.csv
-│
-├── annotated_connectomes/   # Full N x N matrices + Core Annotation Mapping
-│   ├── group_mean_sift_{res}.csv
-│   ├── group_mean_length_{res}.csv
-│   ├── group_prevalence_{res}.csv
-│   └── core_node_annotations.csv   # [Resolution, Node_Index, Is_Core (1/0)]
-│
-├── group_cores/             # Isolated N_core x N_core S-Core Submatrices (Top 15% Hubs)
-│   ├── core_sift_{res}.csv
-│   ├── core_length_{res}.csv
-│   ├── core_prevalence_{res}.csv
-│   ├── core_node_indices_{res}.csv # Atlas node indices belonging to core
-│   └── core_stats_{res}.json       # Edge density, GCC size, min/max strength
-│
+connectome-core/data/
+├── group_connectomes_cortex/          # Cortical consensus matrices (600, 700, 800, 900, 1000)
+├── group_connectomes_subcortical/      # Subcortical consensus matrices (614, 714, 814, 914, 1014)
+├── annotated_connectomes_cortex/      # Full matrices + core_node_annotations.csv
+├── annotated_connectomes_subcortical/  # Full matrices + core_node_annotations.csv
+├── group_cores_cortex/                # Isolated N_core x N_core S-Core submatrices (Cortex)
+├── group_cores_subcortical/           # Isolated N_core x N_core S-Core submatrices (Subcortical)
+├── control_networks_cortex/           # Isolated core null models (ER, Regular, Degree-Preserved)
+├── control_networks_subcortical/      # Isolated core null models (ER, Regular, Degree-Preserved)
+└── individual_connectomes/
+    ├── sift_mu/                       # All 169 subjects' SIFT2 mu scaling factors
+    └── samples/                       # Multi-resolution CSV connectomes across sample subjects
+```
 └── control_networks/        # Isolated N_core x N_core Null Models
     ├── er/                  # control_er_sift_{res}.csv
     ├── regular/             # control_regular_sift_{res}.csv
