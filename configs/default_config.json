@@ -1,0 +1,33 @@
+{
+  "pipeline_version": "1.0.0",
+  "dwi_parameters": {
+    "num_streamlines": 10000000,
+    "tractography_algorithm": "iFOD2",
+    "act": true,
+    "dynamic_seeding": true,
+    "sift2": true,
+    "fod_algorithm": "msmt_csd",
+    "intensity_normalization": "mtnormalise"
+  },
+  "parcellations": {
+    "cortical_resolutions": [600, 700, 800, 900, 1000],
+    "subcortical_regions": 14,
+    "combined_resolutions": [614, 714, 814, 914, 1014]
+  },
+  "group_consensus": {
+    "min_streamline_count": 3,
+    "mu_outlier_sigma": 3.0,
+    "aggregation_method": "elementwise_median"
+  },
+  "score_extraction": {
+    "retention_percentage": 0.15,
+    "strength_metric": "sift2_afd",
+    "enforce_gcc": true
+  },
+  "null_models": {
+    "models": ["er", "regular", "degree_preserved"],
+    "rewiring_swaps_factor": 10,
+    "max_tries_factor": 100,
+    "weight_assignment": "empirical_shuffled"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "description": "FSL FIRST 14 subcortical structure label mapping appended to Schaefer cortical parcels (1 to N_cortex)",
+  "subcortical_structures": [
+    {"index_offset": 1, "name": "Left-Thalamus-Proper", "fsl_label": 10},
+    {"index_offset": 2, "name": "Left-Caudate", "fsl_label": 11},
+    {"index_offset": 3, "name": "Left-Putamen", "fsl_label": 12},
+    {"index_offset": 4, "name": "Left-Pallidum", "fsl_label": 13},
+    {"index_offset": 5, "name": "Left-Hippocampus", "fsl_label": 17},
+    {"index_offset": 6, "name": "Left-Amygdala", "fsl_label": 18},
+    {"index_offset": 7, "name": "Left-Accumbens-area", "fsl_label": 26},
+    {"index_offset": 8, "name": "Right-Thalamus-Proper", "fsl_label": 49},
+    {"index_offset": 9, "name": "Right-Caudate", "fsl_label": 50},
+    {"index_offset": 10, "name": "Right-Putamen", "fsl_label": 51},
+    {"index_offset": 11, "name": "Right-Pallidum", "fsl_label": 52},
+    {"index_offset": 12, "name": "Right-Hippocampus", "fsl_label": 53},
+    {"index_offset": 13, "name": "Right-Amygdala", "fsl_label": 54},
+    {"index_offset": 14, "name": "Right-Accumbens-area", "fsl_label": 58}
+  ]
+}
