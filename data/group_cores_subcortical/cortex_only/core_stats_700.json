@@ -1,0 +1,11 @@
+{
+    "resolution": 700,
+    "tau": 0.5,
+    "base_nodes": 700,
+    "base_edges": 26001,
+    "optimal_k": 40,
+    "core_nodes": 553,
+    "core_edges": 21356,
+    "retention_ratio": 0.8213530248836584,
+    "connected_components": 1
+}

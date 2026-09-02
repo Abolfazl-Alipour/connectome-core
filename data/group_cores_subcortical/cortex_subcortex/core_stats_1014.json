@@ -1,0 +1,10 @@
+{
+    "resolution": 1014,
+    "retention_percentage": 0.15,
+    "base_nodes": 1014,
+    "target_core_nodes": 152,
+    "final_gcc_nodes": 152,
+    "core_edge_density": 0.3469850121993726,
+    "min_core_strength": 19.64590171,
+    "max_core_strength": 180.25028042
+}

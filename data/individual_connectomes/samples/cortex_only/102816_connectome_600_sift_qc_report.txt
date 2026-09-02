@@ -1,0 +1,17 @@
+=========================================
+ AUTOMATED CONNECTOME QC REPORT
+=========================================
+File: 102816_connectome_600_sift.csv
+Nodes: 600
+
+[1] Symmetry Check: PASS
+    - Matrix is strictly symmetric.
+
+[2] Self-Connection Check: PASS
+    - Diagonal sum is 0.0.
+
+[3] Isolated/Dead Nodes Check: PASS
+    - Found 0 nodes with 0 connections.
+
+[4] Network Density: 20.29%
+    - 72932 out of 359400 possible edges exist.
