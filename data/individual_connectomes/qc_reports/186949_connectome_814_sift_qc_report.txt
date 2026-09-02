@@ -1,0 +1,22 @@
+=========================================
+ AUTOMATED CONNECTOME QC REPORT
+=========================================
+File: 186949_connectome_814_sift.csv
+Nodes: 814
+
+[1] Symmetry Check: PASS
+    - Matrix is strictly symmetric.
+
+[2] Self-Connection Check: PASS
+    - Diagonal sum is 0.0.
+
+[3] Isolated/Dead Nodes Check: WARNING
+    - Found 1 nodes with 0 connections.
+    - Node indices: [607]
+
+[4] Network Density: 9.79%
+    - 64760 out of 661782 possible edges exist.
+
+[5] Subcortical Connectivity Signature:
+    - Mean Cortico-Cortical weight: 11.0350
+    - Mean Subcortical weight: 70.4145
