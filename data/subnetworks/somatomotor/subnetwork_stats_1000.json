@@ -1,0 +1,12 @@
+{
+    "subnetwork_name": "Somatomotor",
+    "resolution": 1000,
+    "num_nodes": 194,
+    "num_edges": 5149,
+    "density": 0.27503872656375195,
+    "gcc_nodes": 194,
+    "is_fully_connected": true,
+    "mean_internal_strength": 8.108356572268042,
+    "median_internal_strength": 7.6839939600000005,
+    "max_internal_strength": 22.87601197
+}

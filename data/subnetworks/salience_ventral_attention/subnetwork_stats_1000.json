@@ -1,0 +1,12 @@
+{
+    "subnetwork_name": "Salience_Ventral_Attention",
+    "resolution": 1000,
+    "num_nodes": 121,
+    "num_edges": 1943,
+    "density": 0.2676308539944904,
+    "gcc_nodes": 121,
+    "is_fully_connected": true,
+    "mean_internal_strength": 5.10837617338843,
+    "median_internal_strength": 4.545203600000001,
+    "max_internal_strength": 14.121532389999999
+}

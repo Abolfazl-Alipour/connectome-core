@@ -1,0 +1,12 @@
+{
+    "subnetwork_name": "Global_Neuronal_Workspace",
+    "resolution": 1000,
+    "num_nodes": 347,
+    "num_edges": 14533,
+    "density": 0.24209158601389283,
+    "gcc_nodes": 347,
+    "is_fully_connected": true,
+    "mean_internal_strength": 9.67711731590778,
+    "median_internal_strength": 8.94297757,
+    "max_internal_strength": 31.442581410000003
+}

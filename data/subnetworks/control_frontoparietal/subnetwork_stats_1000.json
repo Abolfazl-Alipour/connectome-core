@@ -1,0 +1,12 @@
+{
+    "subnetwork_name": "Control_Frontoparietal",
+    "resolution": 1000,
+    "num_nodes": 129,
+    "num_edges": 1999,
+    "density": 0.24212693798449614,
+    "gcc_nodes": 129,
+    "is_fully_connected": true,
+    "mean_internal_strength": 5.682687286511627,
+    "median_internal_strength": 4.64025572,
+    "max_internal_strength": 19.32569813
+}

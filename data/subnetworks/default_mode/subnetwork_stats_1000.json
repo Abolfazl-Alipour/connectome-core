@@ -1,0 +1,12 @@
+{
+    "subnetwork_name": "Default_Mode",
+    "resolution": 1000,
+    "num_nodes": 212,
+    "num_edges": 4232,
+    "density": 0.18921577394259143,
+    "gcc_nodes": 212,
+    "is_fully_connected": true,
+    "mean_internal_strength": 7.467782742641511,
+    "median_internal_strength": 6.383222655000001,
+    "max_internal_strength": 29.44886191
+}

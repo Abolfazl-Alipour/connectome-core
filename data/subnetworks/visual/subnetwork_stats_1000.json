@@ -1,0 +1,12 @@
+{
+    "subnetwork_name": "Visual",
+    "resolution": 1000,
+    "num_nodes": 162,
+    "num_edges": 5291,
+    "density": 0.40572042021317384,
+    "gcc_nodes": 162,
+    "is_fully_connected": true,
+    "mean_internal_strength": 14.982737613580248,
+    "median_internal_strength": 14.168568405000002,
+    "max_internal_strength": 42.343047750000004
+}

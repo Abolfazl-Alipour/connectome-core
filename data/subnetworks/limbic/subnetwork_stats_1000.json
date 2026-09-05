@@ -1,0 +1,12 @@
+{
+    "subnetwork_name": "Limbic",
+    "resolution": 1000,
+    "num_nodes": 60,
+    "num_edges": 508,
+    "density": 0.28700564971751413,
+    "gcc_nodes": 60,
+    "is_fully_connected": true,
+    "mean_internal_strength": 10.405943468,
+    "median_internal_strength": 8.944663485,
+    "max_internal_strength": 33.435265969999996
+}

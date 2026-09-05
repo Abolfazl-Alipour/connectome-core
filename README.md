@@ -133,14 +133,20 @@ connectome-core/data/
 ├── group_cores_subcortical/           # Isolated N_core x N_core S-Core submatrices (Subcortical)
 ├── control_networks_cortex/           # Isolated core null models (ER, Regular, Degree-Preserved)
 ├── control_networks_subcortical/      # Isolated core null models (ER, Regular, Degree-Preserved)
+├── subnetworks/                       # Canonical Yeo 7 & Consciousness Subgraphs (1000-Node)
+│   ├── subnetwork_node_annotations_1000.csv
+│   ├── visual/                        # Visual Network (162 nodes)
+│   ├── somatomotor/                   # Somatomotor Network (194 nodes)
+│   ├── dorsal_attention/              # Dorsal Attention Network (122 nodes)
+│   ├── salience_ventral_attention/    # Salience / Ventral Attention (121 nodes)
+│   ├── limbic/                        # Limbic Network (60 nodes)
+│   ├── control_frontoparietal/        # Frontoparietal Control Network (129 nodes)
+│   ├── default_mode/                  # Default Mode Network (212 nodes)
+│   ├── posterior_hot_zone/            # Koch/Tononi/IIT Consciousness Subnetwork (462 nodes)
+│   └── global_neuronal_workspace/     # Dehaene/GNWT Consciousness Subnetwork (347 nodes)
 └── individual_connectomes/
     ├── sift_mu/                       # All 169 subjects' SIFT2 mu scaling factors
     └── samples/                       # Multi-resolution CSV connectomes across sample subjects
-```
-└── control_networks/        # Isolated N_core x N_core Null Models
-    ├── er/                  # control_er_sift_{res}.csv
-    ├── regular/             # control_regular_sift_{res}.csv
-    └── degree_preserved/    # control_degree_preserved_sift_{res}.csv
 ```
 
 ---
