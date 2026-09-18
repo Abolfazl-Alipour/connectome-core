@@ -1,0 +1,14 @@
+Subcortex_Left-Thalamus-Proper
+Subcortex_Left-Caudate
+Subcortex_Left-Putamen
+Subcortex_Left-Pallidum
+Subcortex_Left-Hippocampus
+Subcortex_Left-Amygdala
+Subcortex_Left-Accumbens-area
+Subcortex_Right-Thalamus-Proper
+Subcortex_Right-Caudate
+Subcortex_Right-Putamen
+Subcortex_Right-Pallidum
+Subcortex_Right-Hippocampus
+Subcortex_Right-Amygdala
+Subcortex_Right-Accumbens-area

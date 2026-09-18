@@ -1,0 +1,12 @@
+{
+    "subnetwork_name": "Posterior_Hot_Zone",
+    "resolution": 1014,
+    "num_nodes": 462,
+    "num_edges": 21098,
+    "density": 0.19812002892263195,
+    "gcc_nodes": 462,
+    "is_fully_connected": true,
+    "mean_internal_strength": 10.398551266060606,
+    "median_internal_strength": 8.601471945,
+    "max_internal_strength": 41.33196496
+}

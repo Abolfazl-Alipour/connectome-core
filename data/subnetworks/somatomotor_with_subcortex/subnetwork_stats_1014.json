@@ -1,0 +1,12 @@
+{
+    "subnetwork_name": "Somatomotor_with_subcortex",
+    "resolution": 1014,
+    "num_nodes": 208,
+    "num_edges": 6367,
+    "density": 0.2957543664065403,
+    "gcc_nodes": 208,
+    "is_fully_connected": true,
+    "mean_internal_strength": 11.797748230576925,
+    "median_internal_strength": 8.3846654,
+    "max_internal_strength": 100.3514074
+}

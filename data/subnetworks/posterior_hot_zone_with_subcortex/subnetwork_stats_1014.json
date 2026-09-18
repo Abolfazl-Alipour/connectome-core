@@ -1,0 +1,12 @@
+{
+    "subnetwork_name": "Posterior_Hot_Zone_with_subcortex",
+    "resolution": 1014,
+    "num_nodes": 476,
+    "num_edges": 23557,
+    "density": 0.20837682441397612,
+    "gcc_nodes": 476,
+    "is_fully_connected": true,
+    "mean_internal_strength": 11.818939244789917,
+    "median_internal_strength": 8.994699055000002,
+    "max_internal_strength": 93.04328667
+}

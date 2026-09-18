@@ -1,0 +1,12 @@
+{
+    "subnetwork_name": "Subcortex_Only",
+    "resolution": 1014,
+    "num_nodes": 14,
+    "num_edges": 87,
+    "density": 0.9560439560439561,
+    "gcc_nodes": 14,
+    "is_fully_connected": true,
+    "mean_internal_strength": 40.227871795714286,
+    "median_internal_strength": 35.03723385,
+    "max_internal_strength": 82.95330072999998
+}

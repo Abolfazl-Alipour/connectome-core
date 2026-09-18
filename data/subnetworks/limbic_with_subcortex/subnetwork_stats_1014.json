@@ -1,0 +1,12 @@
+{
+    "subnetwork_name": "Limbic_with_subcortex",
+    "resolution": 1014,
+    "num_nodes": 74,
+    "num_edges": 912,
+    "density": 0.33765272121436507,
+    "gcc_nodes": 74,
+    "is_fully_connected": true,
+    "mean_internal_strength": 17.9801281872973,
+    "median_internal_strength": 11.131492395,
+    "max_internal_strength": 88.92594557999999
+}

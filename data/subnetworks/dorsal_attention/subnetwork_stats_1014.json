@@ -1,0 +1,12 @@
+{
+    "subnetwork_name": "Dorsal_Attention",
+    "resolution": 1014,
+    "num_nodes": 122,
+    "num_edges": 1956,
+    "density": 0.26500474190489093,
+    "gcc_nodes": 122,
+    "is_fully_connected": true,
+    "mean_internal_strength": 5.348141561639344,
+    "median_internal_strength": 5.21953444,
+    "max_internal_strength": 12.383737659999998
+}

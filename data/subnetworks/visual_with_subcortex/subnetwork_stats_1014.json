@@ -1,0 +1,12 @@
+{
+    "subnetwork_name": "Visual_with_subcortex",
+    "resolution": 1014,
+    "num_nodes": 176,
+    "num_edges": 5898,
+    "density": 0.382987012987013,
+    "gcc_nodes": 176,
+    "is_fully_connected": true,
+    "mean_internal_strength": 16.964341641249998,
+    "median_internal_strength": 14.04595642,
+    "max_internal_strength": 82.96016510999999
+}
